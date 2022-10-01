@@ -1,0 +1,12 @@
+spring:
+  batch:
+    initialize-schema: always
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/Fiap
+
+server:
+  port : 8081
+
+
+inputfile: 'C:\Users\guilherme.consultori\Desktop\lista_alunos_LIDO.txt'

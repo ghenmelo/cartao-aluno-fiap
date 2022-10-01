@@ -1,0 +1,6 @@
+feign:
+  httpclient:
+    enabled: true
+
+aluno:
+  url: "localhost:8085/aluno"
