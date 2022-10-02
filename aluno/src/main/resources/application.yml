@@ -1,12 +1,18 @@
 spring:
-  batch:
-    initialize-schema: always
+  application:
+    name: aluno-fiap
   data:
     mongodb:
       uri: mongodb://localhost:27017/Fiap
+  batch:
+    jdbc:
+      initialize-schema: always
+  mvc:
+    pathmatch:
+      matching-strategy: 'ant_path_matcher'
+  inputfile: 'content/lista_alunos1.txt'
 
 server:
   port : 8081
 
 
-inputfile: 'C:\Users\guilherme.consultori\Desktop\lista_alunos_LIDO.txt'

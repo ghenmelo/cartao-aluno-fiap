@@ -4,6 +4,7 @@ import java.math.BigDecimal
 
 data class Compra(
     val identificadorAluno: String,
-    val valor: BigDecimal
+    val valor: BigDecimal,
+    var descricao: String = "",
 ) {
 }

@@ -1,4 +1,4 @@
-package br.com.fiap.autorizadora.model
+package br.com.fiap.aluno.models
 
 import java.math.BigDecimal
 

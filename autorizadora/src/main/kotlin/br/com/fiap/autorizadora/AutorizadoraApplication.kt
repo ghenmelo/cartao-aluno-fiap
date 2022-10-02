@@ -7,7 +7,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients
 @SpringBootApplication
 @EnableFeignClients
 class AutorizadoraApplication
-
 fun main(args: Array<String>) {
 	runApplication<AutorizadoraApplication>(*args)
 }
+

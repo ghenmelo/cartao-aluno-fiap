@@ -3,4 +3,7 @@ feign:
     enabled: true
 
 aluno:
-  url: "localhost:8085/aluno"
+  url: "localhost:8081/aluno"
+
+transacao:
+  url: "localhost:8081/transacao"
