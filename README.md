@@ -36,6 +36,12 @@ Para usar Cartao Aluno:
 ```
 Para poder consumir todas as requisições criadas nos projetos basta acessar o caminho do Swagger, 
 após o projeto estar rodando. <localhost:8081/swagger-ui.html> e <localhost:8080/swagger-ui.html>
+
+Existem 2 projetos, um para controle do aluno e outra para controle da autorizado de compras e pagamentos.
+
+O serviço de Aluno possui o job com batch para popular inicialmente seu banco de dados não relacional (MongoDB).
+O arquivo lista_alunos.txt no caminho resources/content é necessário para popular e após a primeira execução
+do projeto deve ser alterado o nome do arquivo para não inserir dados repetidos em seu database.
 ```
 
 ## 📫 Contribuindo para Cartao Aluno
