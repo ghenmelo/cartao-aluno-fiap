@@ -10,7 +10,7 @@ spring:
   mvc:
     pathmatch:
       matching-strategy: 'ant_path_matcher'
-  inputfile: 'content/lista_alunos1.txt'
+  inputfile: 'content/lista_alunos.txt'
 
 server:
   port : 8081
