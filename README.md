@@ -35,7 +35,7 @@ Para usar Cartao Aluno:
 
 ```
 Para poder consumir todas as requisições criadas nos projetos basta acessar o caminho do Swagger, 
-após o projeto estar rodando. <localhost:8085/swagger-ui.html>
+após o projeto estar rodando. <localhost:8081/swagger-ui.html> e <localhost:8080/swagger-ui.html>
 ```
 
 ## 📫 Contribuindo para Cartao Aluno
