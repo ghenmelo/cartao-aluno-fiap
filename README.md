@@ -80,6 +80,22 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/25730747?v=4" width="100px;" alt="Foto do Gabriel Tadachi"/><br>
+        <sub>
+          <b>Gabriel Tadachi</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/7660575?v=4" width="100px;" alt="Foto do Gustaco Ceccon"/><br>
+        <sub>
+          <b>Gustavo Ceccon</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
